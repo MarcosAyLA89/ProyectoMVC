@@ -1,0 +1,5 @@
+C:\Users\JoséMarcos\Desktop\MVC Sistema DAC\ProyectoDAC\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\JoséMarcos\Desktop\MVC Sistema DAC\ProyectoDAC\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\JoséMarcos\Desktop\MVC Sistema DAC\ProyectoDAC\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\JoséMarcos\Desktop\MVC Sistema DAC\ProyectoDAC\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\JoséMarcos\Desktop\MVC Sistema DAC\ProyectoDAC\CapaEntidades\obj\Debug\CapaEntidades.pdb
